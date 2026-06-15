@@ -1,0 +1,16 @@
+{
+  "68c96f542cc57139c960a872 name": "Sussurros Através do Vidro Estilhaçado",
+  "68c96f542cc57139c960a872 description": "Conheço uma nova contratante que talvez lhe interesse conhecer, mas ela não aceita qualquer um. Euphoria diz que a cidade tem quatro bocas que ainda se lembram da ordem: a Lavage, o Empire, o Tarbank e o Credit Bank.\nEla quer que você desperte cada uma delas com um sinal para que seus ecos se alinhem como dentes. Só então, segundo ela, o Tablet deixará de gaguejar e falará com clareza.\nDepois de marcar as áreas no Tablet, certifique-se de trazê-lo de volta para mim.\nSe voltar respirando, ela falará com você como um amigo. Caso contrário, ouvirá por você através da estática. E não se esqueça de pegar o Weeb Tablet antes de marcar os locais; ela o deixou sobre uma mesa de açougue ao lado da porta trancada da Terragroup.",
+  "68c96f542cc57139c960a872 startedMessageText": "Ground Zero ainda tem lugares que importam.\nMarque os quatro pontos, pegue o tablet e saia vivo.",
+  "68c96f542cc57139c960a872 successMessageText": "Marcas verificadas e sua saída foi confirmada sem problemas. Bom trabalho.",
+  "68c96f542cc57139c960a872 failMessageText": "Parece que você falhou. Que tal tentar novamente?",
+  "68c96f542cc57139c960a872 acceptPlayerMessage": "A rota é simples.\nToque a entrada da Lavage, o cofre do Empire, o elevador do Tarbank e o caminhão do Credit Bank.\nEntregue o Tablet após marcar tudo.\nA extração deve ser limpa, então certifique-se de fazer tudo de uma só vez.",
+  "68c96f542cc57139c960a872 completePlayerMessage": "Bom. Vou abrir a linha para Euphoria.\nEla valoriza provas mais do que apresentações, e você trouxe provas suficientes.",
+  "68c92efdc65d5643919c1526": "Encontre o Weeb Tablet",
+  "68c96f54a61d710b1d8e1006": "Marque a entrada da Lavage",
+  "68c96f5433816ac29eabbc37": "Marque o cofre do Empire",
+  "68c96f54b4e9c1d9c97976f9": "Marque o elevador do Tarbank",
+  "68c96f54e82fd71fb8b03fa1": "Marque o caminhão próximo ao Credit Bank",
+  "68c99b2abc05c537feb35247": "Sobreviva e extraia",
+  "68c99b3a7fecd3b9a6a5c56b": "Entregue o Weeb Tablet"
+}
