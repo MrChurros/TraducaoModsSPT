@@ -1,0 +1,8 @@
+{
+  "68d3fe84757f8967ec09099b name": "Cinco Plus",
+  "68d3fe84757f8967ec09099b description": "Alcance o nível 5 de Prestígio",
+  "68d3fe84757f8967ec09099b successMessage": "",
+  "68d3ff840531ed76e808866c name": "Sem Limites para a Perfeição",
+  "68d3ff840531ed76e808866c description": "Alcance o nível 6 de Prestígio",
+  "68d3ff840531ed76e808866c successMessage": ""
+}
