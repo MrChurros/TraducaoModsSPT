@@ -1,3 +1,7 @@
+![SPT](https://img.shields.io/badge/SPT-4.x-blue)
+![Fika](https://img.shields.io/badge/Fika-Compatible-green)
+![Status](https://img.shields.io/badge/Status-Stable-success)
+![Focus](https://img.shields.io/badge/Focus-Immersion-orange)
 # Escape from Tarkov Remastered (SPT 4.x)
 
 ## Visão Geral
