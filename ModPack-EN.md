@@ -1,281 +1,299 @@
+![SPT](https://img.shields.io/badge/SPT-4.x-blue)
+![Fika](https://img.shields.io/badge/Fika-Compatible-green)
+![Status](https://img.shields.io/badge/Status-Stable-success)
+![Focus](https://img.shields.io/badge/Focus-Immersion-orange)
+
+
 # Escape from Tarkov Remastered (SPT 4.x)
 
 > A carefully curated SPT modpack focused on advanced AI, balanced progression, immersive gameplay, and lore-friendly content while preserving the core Escape from Tarkov experience.
 
 ---
 
-# Vision
+# Requirements
 
-The goal of this modpack is not to transform Tarkov into a completely different game.
+### SPT
 
-Instead, it aims to enhance the original experience by improving:
+https://sp-tarkov.com/#download
 
-* AI behavior
-* Progression pacing
-* Atmosphere
-* Content variety
-* Immersion
-* Long-term replayability
+### Project Fika
 
-Every mod has been selected to complement the vanilla game rather than replace it.
+https://wiki.project-fika.com/installing-fika/installation
 
 ---
 
-# Core Features
+# AI & Bot Behavior
 
-## Advanced AI
+### BigBrain
 
-A complete overhaul of bot behavior using:
+https://forge.sp-tarkov.com/mod/902/bigbrain
 
-* SAIN
-* BigBrain
-* Waypoints
-* ABPS
-* APBS
-* ORBIT
+Framework used by advanced AI mods.
 
-Bots now:
+### Waypoints - Expanded Navmesh
 
-* Navigate maps more intelligently
-* Progress alongside the player
-* Loot equipment
-* Engage in realistic combat
-* Extract from raids
+https://forge.sp-tarkov.com/mod/827/waypoints-expanded-navmesh
+
+Expands bot navigation across all maps.
+
+### SAIN
+
+https://forge.sp-tarkov.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement
+
+Complete combat AI overhaul.
+
+### ABPS - Acid's Bot Placement System
+
+https://forge.sp-tarkov.com/mod/2097/abps-acids-bot-placement-system
+
+Advanced spawn and raid population management.
+
+### APBS - Acid's Progressive Bot System
+
+https://forge.sp-tarkov.com/mod/1594/apbs-acids-progressive-bot-system
+
+Progressive bot gear and difficulty scaling.
+
+### MoreBotsAPI
+
+https://forge.sp-tarkov.com/mod/2426/morebotsapi
+
+Required by several custom faction mods.
+
+### ORBIT
+
+https://forge.sp-tarkov.com/mod/2706/orbit
+
+Bots now loot, fight, and extract like real players.
 
 ---
 
-## Balanced Progression
+# Progression
 
-The progression system is designed to remain challenging throughout the entire playthrough.
+### Fair Progression
 
-Included mods:
+https://forge.sp-tarkov.com/mod/2652/fair-progression
 
-* Fair Progression
-* Advanced Flea Simulator
-* Ref – SPT Friendly Quests
+Balances experience rewards from custom traders.
 
-This prevents excessive experience gain and maintains a progression curve closer to live Tarkov.
+### Advanced Flea Simulator
+
+https://forge.sp-tarkov.com/mod/2526/advanced-flea-simulator
+
+Makes the flea market feel closer to the live game.
+
+### Ref – SPT Friendly Quests
+
+https://forge.sp-tarkov.com/mod/1538/ref-spt-friendly-quests
+
+Converts Ref Arena quests for SPT.
 
 ---
 
-## Custom Traders
+# Custom Traders
 
 ### AES
 
-Three interconnected traders with extensive lore, quests, and unlockable content.
+https://forge.sp-tarkov.com/mod/874/aes
+
+Three interconnected traders featuring extensive lore, quests, weapons, and progression.
 
 ### Lotus
 
-One of the largest quest-based traders available, featuring over 340 quests and a massive progression path.
+https://forge.sp-tarkov.com/mod/1232/lotus
+
+Over 340 quests and one of the largest progression paths available.
 
 ### Scorpion
 
-A trader focused on varied objectives and long-term quest progression.
+https://forge.sp-tarkov.com/mod/1348/scorpion
 
-### Artem
+122 quests including special event-based objectives.
 
-A weapon-focused trader with deep integration into the Tarkov world.
+### WTT Artem
+
+https://forge.sp-tarkov.com/mod/1023/wtt-artem
+
+A weapon-focused trader deeply integrated into Tarkov's world.
 
 ### Dragon Den – Euphoria
 
-Additional gear, equipment, and quest content.
+https://forge.sp-tarkov.com/mod/2330/dragon-den-euphoria
+
+Additional gear, equipment, and quest progression.
 
 ---
 
-## Dynamic Factions
+# Dynamic Factions
 
 ### RUAF Come Home
 
-Adds Russian military forces operating throughout Tarkov.
+https://forge.sp-tarkov.com/mod/2427/ruaf-come-home
+
+Adds Russian military forces throughout Tarkov.
 
 ### UNTAR Go Home
 
-Introduces UN peacekeeping forces to raid environments.
+https://forge.sp-tarkov.com/mod/2428/untar-go-home
+
+Adds active UNTAR patrols and encounters.
 
 ### Black Division [REDACTED]
 
-A mysterious elite faction equipped with high-end gear and advanced combat capabilities.
+https://forge.sp-tarkov.com/mod/2511/wtt-black-division-redacted-home
+
+Elite hostile faction equipped with advanced gear.
 
 ---
 
-## Expanded Content
+# Additional Content
+
+### WTT CommonLib
+
+https://forge.sp-tarkov.com/mod/2310/wtt-commonlib
+
+Core dependency for WTT mods.
 
 ### WTT Content Backport
+
+https://forge.sp-tarkov.com/mod/2512/wtt-content-backport
 
 Brings newer Tarkov content into SPT.
 
 ### Content Backport – Prestiges
 
-Extends prestige progression beyond vanilla limitations.
+https://forge.sp-tarkov.com/mod/2540/content-backport-prestiges
+
+Expands prestige progression beyond vanilla limits.
 
 ### WTT Armory
 
-Adds high-quality weapons while maintaining Tarkov's visual and gameplay standards.
+https://forge.sp-tarkov.com/mod/2246/wtt-armory
+
+High-quality weapon pack.
 
 ### Couturier
+
+https://forge.sp-tarkov.com/mod/2239/couturier-gear-and-clothing-pack
 
 Additional tactical gear, armor, backpacks, and clothing.
 
 ### All The Clothes
 
-Unlocks and expands character customization options.
+https://forge.sp-tarkov.com/mod/526/all-the-clothes
+
+Unlocks and expands character customization.
 
 ---
 
-## Immersion
-
-### Smooth Talker
-
-Your PMC will occasionally speak and react during raids.
-
-### Raid Review
-
-Detailed raid summaries and performance tracking.
-
-### Head and Voice Selector
-
-Customize your character's appearance and voice at any time.
-
----
-
-## Visual Enhancements
+# Visual Enhancements
 
 ### AmandsGraphics
 
-General graphical improvements and lighting enhancements.
+https://github.com/Ehxcalibur/AmandsGraphics/releases/tag/V1.0.0
 
-### CloudSix
+General graphics and lighting improvements.
+
+### CloudSix – Volumetric Clouds
+
+https://forge.sp-tarkov.com/mod/2567/cloudsix-volumetric-clouds
 
 Volumetric cloud system.
 
 ### HollywoodFX
 
-Enhanced visual effects for combat and impacts.
+https://forge.sp-tarkov.com/mod/2003/hollywoodfx
+
+Enhanced combat and impact visual effects.
 
 ### Better Night Skies
 
-Improved nighttime atmosphere.
+https://forge.sp-tarkov.com/mod/2734/better-night-skies
+
+Improved night sky visuals.
 
 ### Borkel's Realistic NVGs
 
-A complete night vision overhaul inspired by real-world NVG behavior.
+https://forge.sp-tarkov.com/mod/954/borkels-realistic-night-vision-goggles-nvgs-and-t-7
+
+Realistic night vision overhaul.
 
 ### Season Rotator
 
-Automatic seasonal changes throughout the year.
+https://forge.sp-tarkov.com/mod/2314/season-rotator
+
+Automatic seasonal rotation.
 
 ---
 
-## Quality of Life
+# Immersion
+
+### Smooth Talker
+
+https://forge.sp-tarkov.com/mod/2635/smooth-talker
+
+Your PMC occasionally comments and reacts during raids.
+
+### Raid Review
+
+Included in the modpack.
+
+Detailed post-raid statistics and analysis.
+
+### WTT Head and Voice Selector
+
+https://forge.sp-tarkov.com/mod/1277/wtt-head-and-voice-selector
+
+Customize your voice and appearance after character creation.
+
+---
+
+# Quality of Life
 
 ### WTT Menu Overhaul
+
+https://forge.sp-tarkov.com/mod/1775/wtt-menu-overhaul
 
 Modernized main menu.
 
 ### Kaeno Trader Scrolling
 
-Improved trader navigation.
+https://forge.sp-tarkov.com/mod/1089/kaeno-traderscrolling
+
+Adds trader list scrolling.
 
 ### Continuous Load Ammo
 
-Streamlined ammunition loading and unloading.
+https://forge.sp-tarkov.com/mod/2112/continuous-load-ammo
+
+Continuous ammo loading and unloading.
 
 ### Manimal's Ammo Loading Animations
 
-Immersive first-person magazine loading animations.
+https://forge.sp-tarkov.com/mod/2681/manimals-ammo-loading-animations
 
----
-
-# Mod List
-
-## AI
-
-* BigBrain
-* Waypoints
-* SAIN
-* ABPS
-* APBS
-* ORBIT
-* MoreBotsAPI
-
-## Progression
-
-* Fair Progression
-* Advanced Flea Simulator
-* Ref – SPT Friendly Quests
-
-## Traders
-
-* AES
-* Lotus
-* Scorpion
-* Artem
-* Dragon Den – Euphoria
-
-## Factions
-
-* RUAF Come Home
-* UNTAR Go Home
-* Black Division [REDACTED]
-
-## Content
-
-* WTT CommonLib
-* WTT Content Backport
-* Content Backport – Prestiges
-* WTT Armory
-* Couturier
-* All The Clothes
-
-## Visual
-
-* AmandsGraphics
-* CloudSix
-* HollywoodFX
-* Better Night Skies
-* Borkel's Realistic NVGs
-* Season Rotator
-
-## Immersion & QoL
-
-* Smooth Talker
-* Raid Review
-* Head and Voice Selector
-* WTT Menu Overhaul
-* Kaeno Trader Scrolling
-* Continuous Load Ammo
-* Manimal's Ammo Loading Animations
+First-person magazine loading animations.
 
 ---
 
 # Design Philosophy
 
-This modpack follows four core principles:
+This modpack follows four principles:
 
-### Preserve Tarkov's Identity
-
-No unrealistic overhauls or game-changing mechanics.
-
-### Improve Existing Systems
-
-Enhance what Tarkov already does well.
-
-### Encourage Long-Term Progression
-
-Provide hundreds of hours of meaningful progression.
-
-### Maintain Stability
-
-Favor compatibility and reliability over excessive content additions.
+* Preserve Tarkov's identity
+* Improve existing systems
+* Encourage long-term progression
+* Maintain stability and compatibility
 
 ---
 
 # Recommended For
 
-* Players seeking a long-term SPT playthrough
-* Fans of immersive and lore-friendly content
-* Players who want smarter AI without unfair difficulty
-* Anyone looking for a "Tarkov Enhanced" experience
+* Long-term SPT playthroughs
+* Players seeking immersive gameplay
+* Fans of lore-friendly content
+* Players looking for smarter AI
+* Anyone wanting a "Tarkov Enhanced" experience
 
 ---
 
