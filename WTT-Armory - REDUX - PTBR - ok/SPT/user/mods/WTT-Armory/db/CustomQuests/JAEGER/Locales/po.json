@@ -1,0 +1,16 @@
+{
+"687b616db015c21f329bf45f name": "Gunsmith - Abakan",
+"687b616db015c21f329bf45f description": "Entre, sente-se. Tenho algo incomum para você hoje. Sergey está enterrado no próprio trabalho, mexendo em algumas montagens de alta prioridade. Ele me pediu para cuidar disso, mas estou sobrecarregado mantendo a reserva sob controle. Saqueadores estão por toda parte, e estou aqui apagando incêndios atrás de incêndios, então vou passar essa tarefa para você. Há um AN-94 escondido por aí, deixado por alguém que prefere permanecer nas sombras. Sem nomes, sem detalhes, exatamente do jeito que gostam. O rifle está escondido em algum lugar da antiga base militar improvisada próxima ao lago. Há uma lista de acessórios e modificações que querem instalados nele. Confio que você fará o trabalho direito e não desaparecerá com a arma. Conclua o serviço e traga-a de volta para mim. Vou garantir que ela chegue a quem deve chegar.  ",
+"687b616db015c21f329bf45f startedMessageText": "Fique atento lá fora. Woods está infestada de Scavs, e eles adorariam colocar as mãos em um prêmio desses. Mova-se rápido e mantenha-se alerta.",
+"687b616db015c21f329bf45f successMessageText": "Trabalho impressionante. Deixe-me ver... Serviço limpo. Você seguiu as especificações à risca. Tenho alguns equipamentos extras guardados, coisas boas vindas da reserva. Você fez por merecer. Ah, e Sergey disse para você passar lá e falar com ele. Parece que recebeu algumas mercadorias novas que podem lhe interessar. \n\n\n\n\n\n\n\n",
+"687b616db015c21f329bf45f failMessageText": "Uma pena. ",
+"687b573e9a195e91cdbfeb3e": "Encontre a lista de peças deixada pelo cliente do Mechanic.",
+"687b576a812a0cbb6a84bbcd": "Encontre o rifle AN-94",
+"687bfe14c7992e70e4182043": "Entregue o rifle ao Jaeger.",
+"687c00f3ab87dcd3d33110c2": "Entregue a coronha esqueletizada para AN-94",
+"687c0504ecb8b6f3c29ea6fc": "Entregue o carregador camuflado 6L23",
+"687c05c4f0c26d721dfc76e5": "Entregue a mira NPZ PK1 Obzor",
+"687c0668111c9ed31ee0b298": "Entregue a alavanca de manejo serrilhada CSS",
+"687c08947e7e6875c8cb5b03": "Entregue o adaptador para empunhadura tipo AR da AK Custom Guns",
+"687c09233b1e9653adb86cfc": "Entregue a empunhadura de pistola AR-15 F1 esqueletizada estilo 2 PC"
+}

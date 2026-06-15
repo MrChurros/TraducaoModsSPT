@@ -1,0 +1,18 @@
+{
+  "6873248b615c003311ebb292 name": "Nostalgia Imortal",
+  "6873248b615c003311ebb292 description": "\"Ei, mercenário, tenho uma missão estranha para você. Um cliente meu cheio da grana está obcecado com as velharias dele e está pagando muito bem para recuperá-las. Ele está atrás de um videogame antigo e de um DVD pirata de Star Wars que escondeu em algum lugar do Health Resort. O problema é que eu já estava na terceira garrafa de vodka quando ele me falou o número do quarto, então não faço ideia de onde exatamente procurar. Você vai ter que vasculhar as suítes mais luxuosas do resort, sabe, aquelas com tapetes macios e vistas absurdamente caras. Depois de encontrar os itens, deixe tudo no mini cinema de Interchange, em algum lugar nos fundos, perto de um cartaz que ele mencionou. Nem pense em assistir ao DVD ou vender por uns trocados rápidos, e nem tente mexer naquele videogame. Esse cara é obcecado, e eu não quero lidar com os ataques de raiva dele. Acredite, são um verdadeiro desastre. Faça o serviço direito e conversaremos sobre mais trabalho.\"\n\n",
+  "6873248b615c003311ebb292 startedMessageText": "Boa sorte lá fora. Tente não morrer por causa disso.",
+  "6873248b615c003311ebb292 failMessageText": "Do svidaniya, mercenário.",
+  "6873248b615c003311ebb292 completePlayerMessage": "",
+  "6873248b615c003311ebb292 successMessageText": "Ora, mas que surpresa, mercenário, você realmente conseguiu! Encontrou o videogame e o DVD, hein? Nada mal para um saqueador de luxo. E ainda deixou tudo no mini cinema como eu pedi? Meu cliente vai ficar nas nuvens, provavelmente chorando sobre um balde de pipoca vintage. Você tem talento, operador. Continue por perto, é bom ter alguém que não estraga nem uma simples missão de entrega. Agora vá limpar seu equipamento ou qualquer coisa do tipo.",
+  "686fb59d8b0538a76b923998": "Encontre o DVD pirata no Health Resort",
+  "687309c0742d221499ecb69e": "Encontre o videogame no Health Resort",
+  "68730b8f645d8547cbf06740": "Coloque o DVD pirata no mini cinema em Interchange",
+  "68730c98c6a9aafc1a8c2078": "Coloque o videogame no mini cinema em Interchange",
+
+  "686051774a290eb6f216471f name": "Recuperação de Armamentos",
+  "686051774a290eb6f216471f description": "Rastreei uma remessa de armas da OTAN que foi entregue em Customs. Ainda não sabemos exatamente quais armas são, mas quero que você vá até lá, localize a carga e a marque para mim!",
+  "686051774a290eb6f216471f startedMessageText": "Mexa-se e encontre essa remessa!",
+  "686051774a290eb6f216471f successMessageText": "Excelente trabalho encontrando a remessa. Acontece que as armas eram uma porcaria completa! Você pode ficar com duas para si e eu vou vender o resto. Obrigado, eu acho.",
+  "6860529aac68575f65f0578e": "Coloque um Marcador MS2000 nas caixas localizadas no porão da Fortress, próximo ao ponto de extração."
+}
